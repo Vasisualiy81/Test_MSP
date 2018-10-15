@@ -21,6 +21,7 @@
             <MenuItem Header="Options" FontSize="15" >
                 <MenuItem Header="Start Game" FontSize="15" Click="MenuItem_Click"/>
             </MenuItem>
+            <MenuItem Header="It was added for Test_MSP on Github" FontSize="15" />
         </Menu>
     </Grid>
 </Window>

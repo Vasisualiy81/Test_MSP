@@ -159,3 +159,19 @@ F:\10 - WPF\WPF_Exam\WpfApplication\obj\Debug\MainWindow.g.cs
 F:\10 - WPF\WPF_Exam\WpfApplication\obj\Debug\MainWindow.baml
 G:\10 - WPF\WPF_Exam\WpfApplication\obj\Debug\MainWindow.g.cs
 G:\10 - WPF\WPF_Exam\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\WpfApplication.pdb
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\Chess.g.cs
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\App.g.cs
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\Chess.baml
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\Василий\Documents\Test_MSP\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
